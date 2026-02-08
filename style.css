@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(56, 53, 53);
+    color: rgb(249, 241, 241);
+    text-align: center;
+    font-size: 3vh;
+}
+h1{
+    font-size: 8vh;
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    font-size: 3vh;
+}
+.guessField{
+    text-align: center;
+    height: 3vh;
+    width: 3vh;
+    border: none;
+    margin-top: 2vh ;
+}
+#submit{
+    font-size: 2vh;
+    text-align: center;
+    height: fit-content;
+    width: fit-content;
+    margin-top: 2vh;
+}
